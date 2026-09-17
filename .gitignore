@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# User secrets / environment
+secrets.json
+.env
+.env.*
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+
+# JetBrains
+.idea/
+
+# Local SQL Server database files
+*.mdf
+*.ldf
